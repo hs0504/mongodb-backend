@@ -1,6 +1,6 @@
-package com.example.repository
+package kr.ac.kumoh.s20201226.mongodb_backend.repository
 
-import com.example.model.Champion
+import kr.ac.kumoh.s20201226.mongodb_backend.model.Champion
 import org.springframework.data.mongodb.repository.MongoRepository
 import org.springframework.stereotype.Repository
 

@@ -1,5 +1,6 @@
-package com.example.model
+package kr.ac.kumoh.s20201226.mongodb_backend.model
 
+import kr.ac.kumoh.s20201226.mongodb_backend.model.Stats
 import org.springframework.data.annotation.Id
 import org.springframework.data.mongodb.core.mapping.Document
 

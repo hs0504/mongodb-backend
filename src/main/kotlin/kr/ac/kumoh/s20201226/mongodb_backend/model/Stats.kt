@@ -1,4 +1,4 @@
-package com.example.model
+package kr.ac.kumoh.s20201226.mongodb_backend.model
 
 data class Stats(
     val hp: Double,
